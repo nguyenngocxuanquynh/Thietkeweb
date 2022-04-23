@@ -1,1 +1,35 @@
+<!DOCTYPE html>
+<html lang= "en">
+<head>
+  <meta charset="utf- 8">
+<title> This is my simple website</title>
+</head>
+<body background-image: url("BO HOA HONG.JPG");
+<br/>
+  <h3>
+  <br /><br /><br /><br /
+     <font face="Lato" size="7"> LOGO</font> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     
+     <font face="cinzel">
+       <a href="#">HOME</a> &nbsp; &nbsp; &nbsp; &nbsp;
+       <a href="#">PORTFOLIO</a> &nbsp; &nbsp; &nbsp; &nbsp;
+       <a href="#">DESIGN</a> &nbsp; &nbsp; &nbsp; &nbsp;
+       <a href="#">BLOG</a> &nbsp; &nbsp; &nbsp; &nbsp;
+       
+     </font>
+  </h3>
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<h1 align="center">
+  <font face ="Lato" color="#017bf5" size = "7">
+         THIS IS MY SIMPLE WEBSITE
+  </h1> 
+  <font face ="Lato" color="#000" size = "4">
+  <br />
+  <h3 align="center">
+  <a href="#"> GET STARTED</a>
+
+</body><div style="background-color: #000000; height:480px; padding-top:80px;">    </div> </body> ... 
+</html>
+
+
 
